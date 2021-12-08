@@ -1,10 +1,12 @@
-## Hi, my name is Sukla Alkmim 😎
+## Hi, my name is Sukla Alkmim
 
-- 🔭 I’m currently creating a new mobile app
-- 🌱 I’m currently learning React Native
-- 👨🏻‍💻 I'm currently working as a Business Analyst @ Reply
-- 💡 I'm inspired by movies and music
 - 🎧 I'm a Psytrance DJ
+- 💡 I'm inspired by movies and music
+- 👨🏻‍💻 I'm currently working as a Business Analyst @ Reply
+- 🌱 I’m currently studying React Native
+- 🔭 I’m currently creating a new mobile app
+- 🚀 I'm building a new startup
+
 
 <div align="center">
   <a href="https://github.com/suklaalkmim">
