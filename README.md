@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, my name is Sukla Alkmim 😎
 
-<!--
-**suklaalkmim/suklaalkmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently creating a new mobile app
+- 🌱 I’m currently learning React Native
+- 👨🏻‍💻 I'm currently working as a Business Analyst @ Reply
+- 💡 I'm inspired by movies and music
 
-Here are some ideas to get you started:
+- 🎧 Fun fact: I'm a Psytrance DJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <a href="https://github.com/suklaalkmim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suklaalkmim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suklaalkmim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  ##
+ 
+<div> 
+  <a href = "mailto:sukla.alkmim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/sunblastmusic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sukla-alkmim-aa08b845/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/sunblastmusic" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://soundcloud.com/sunblastmusic" targ="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/sunblastmusic" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/suklaalkmim/suklaalkmim/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
