@@ -1,8 +1,7 @@
 ## Hi, my name is Sukla Alkmim
 
-- 🚀 I'm a Psytrance DJ, inspired by movies and music, working as a Business Analyst @ Reply, studying and creating a new mobile app with React Native and building a new startup. #LFG
-
-
+🚀 I'm a Psytrance DJ, inspired by movies and music, working as a Business Analyst @ Reply, studying and creating a new mobile app with React Native and building a new startup. #LFG
+##
 <div align="center">
   <a href="https://github.com/suklaalkmim">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=suklaalkmim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
