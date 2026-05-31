@@ -1,6 +1,6 @@
 ## Hi, my name is Sukla Alkmim
 
-🚀 I'm a Psytrance DJ, inspired by movies and music, working as a Business Analyst @ Reply, studying and creating a new mobile app with React Native and building a new startup. #LFG
+🚀 I'm a Psytrance DJ, inspired by movies and music, working as a Technology Specialist @ Reply, studying and creating a new mobile app with React Native and building a new startup. #LFG
 ##
 <div align="center">
   <a href="https://github.com/suklaalkmim">
